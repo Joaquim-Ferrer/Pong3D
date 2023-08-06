@@ -1,6 +1,6 @@
 ## Pong3D
 
-Too run install glut, compile the source code
+To run install glut, compile the source code
 
     g++ Projeto.cpp RgbImage.cpp Rubik.cpp -o pong3d -lGL -lGLU -lglut
 
